@@ -1,0 +1,8 @@
+12:10:01.727 [main] INFO  pack01.TestCase01 - Test is completed
+12:10:01.752 [main] INFO  pack01.TestCase01 - myTest01 test is succeded
+12:10:03.653 [main] INFO  pack01.TestCase02 - Test is completed
+12:10:03.655 [main] INFO  pack01.TestCase01 - myTest02 test is succeded
+12:10:04.647 [main] INFO  pack01.TestCase01 - myTest03 test is succeded
+12:10:10.930 [main] INFO  pack01.TestCase01 - datePicker test is succeded
+12:10:11.216 [main] INFO  pack01.TestCase01 - Browser is closed
+12:10:11.346 [main] INFO  pack01.TestCase02 - Browser is closed

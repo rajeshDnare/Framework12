@@ -1,0 +1,8 @@
+16:51:07.678 [main] INFO  pack01.TestCase01 - Browser is invoked
+16:51:09.803 [main] INFO  pack01.TestCase02 - Browser is invoked
+16:51:11.958 [main] INFO  pack01.TestCase02 - Browser is invoked
+16:51:27.873 [main] INFO  pack01.TestCase01 - Test is completed
+16:51:27.889 [main] INFO  pack01.TestCase01 - myTest01 test is succeded
+16:51:31.231 [main] INFO  pack01.TestCase01 - myTest02 test is failed
+16:51:33.940 [main] INFO  pack01.TestCase01 - myTest03 test is failed
+16:51:34.933 [main] INFO  pack01.TestCase01 - Browser is closed

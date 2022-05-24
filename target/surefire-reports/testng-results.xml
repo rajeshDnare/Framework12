@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33064" started-at="2022-05-24T12:30:38 IST" finished-at="2022-05-24T12:31:11 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33064" started-at="2022-05-24T12:30:38 IST" finished-at="2022-05-24T12:31:11 IST">
+      <class name="pack01.DatePickerTest">
+        <test-method status="PASS" signature="beforeTestDatePicker()[pri:0, instance:pack01.DatePickerTest@5fbdfdcf]" name="beforeTestDatePicker" is-config="true" duration-ms="6984" started-at="2022-05-24T12:30:38 IST" finished-at="2022-05-24T12:30:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestDatePicker -->
+        <test-method status="PASS" signature="datePicker()[pri:0, instance:pack01.DatePickerTest@5fbdfdcf]" name="datePicker" duration-ms="5842" started-at="2022-05-24T12:31:04 IST" finished-at="2022-05-24T12:31:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePicker -->
+        <test-method status="PASS" signature="afterTestDatePicker()[pri:0, instance:pack01.DatePickerTest@5fbdfdcf]" name="afterTestDatePicker" is-config="true" duration-ms="49" started-at="2022-05-24T12:31:10 IST" finished-at="2022-05-24T12:31:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestDatePicker -->
+      </class> <!-- pack01.DatePickerTest -->
+      <class name="pack01.TestCase01">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:pack01.TestCase01@67c33749]" name="beforeTest" is-config="true" duration-ms="1943" started-at="2022-05-24T12:30:45 IST" finished-at="2022-05-24T12:30:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="myTest01()[pri:0, instance:pack01.TestCase01@67c33749]" name="myTest01" duration-ms="11392" started-at="2022-05-24T12:30:50 IST" finished-at="2022-05-24T12:31:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest01 -->
+        <test-method status="PASS" signature="afterTest01()[pri:0, instance:pack01.TestCase01@67c33749]" name="afterTest01" is-config="true" duration-ms="740" started-at="2022-05-24T12:31:10 IST" finished-at="2022-05-24T12:31:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest01 -->
+      </class> <!-- pack01.TestCase01 -->
+      <class name="pack01.TestCase03">
+        <test-method status="PASS" signature="beforeTest03()[pri:0, instance:pack01.TestCase03@505fc5a4]" name="beforeTest03" is-config="true" duration-ms="1592" started-at="2022-05-24T12:30:48 IST" finished-at="2022-05-24T12:30:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest03 -->
+        <test-method status="PASS" signature="myTest03()[pri:0, instance:pack01.TestCase03@505fc5a4]" name="myTest03" duration-ms="927" started-at="2022-05-24T12:31:03 IST" finished-at="2022-05-24T12:31:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest03 -->
+        <test-method status="PASS" signature="afterTest03()[pri:0, instance:pack01.TestCase03@505fc5a4]" name="afterTest03" is-config="true" duration-ms="136" started-at="2022-05-24T12:31:11 IST" finished-at="2022-05-24T12:31:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest03 -->
+      </class> <!-- pack01.TestCase03 -->
+      <class name="pack01.TestCase02">
+        <test-method status="PASS" signature="Beforetest02()[pri:0, instance:pack01.TestCase02@3d6f0054]" name="Beforetest02" is-config="true" duration-ms="1439" started-at="2022-05-24T12:30:47 IST" finished-at="2022-05-24T12:30:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforetest02 -->
+        <test-method status="PASS" signature="myTest02()[pri:0, instance:pack01.TestCase02@3d6f0054]" name="myTest02" duration-ms="1836" started-at="2022-05-24T12:31:01 IST" finished-at="2022-05-24T12:31:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest02 -->
+        <test-method status="PASS" signature="afterTest02()[pri:0, instance:pack01.TestCase02@3d6f0054]" name="afterTest02" is-config="true" duration-ms="110" started-at="2022-05-24T12:31:11 IST" finished-at="2022-05-24T12:31:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest02 -->
+      </class> <!-- pack01.TestCase02 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
